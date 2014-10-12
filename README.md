@@ -1,4 +1,4 @@
-Prestige
+Prestige.
 ========
 ALTER PROCEDURE [dbo].[Prestigie]
 	@lg [nvarchar](20)
